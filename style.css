@@ -30,10 +30,11 @@ header a {
     text-decoration: none;
 }
 
-header a:hover{
+header a:hover {
     color: #C51111;
     transition: 0.5s color ease-in-out;
 }
+
 .logo-header {
     height: 80px;
     margin: 20px;
@@ -119,9 +120,11 @@ p {
     z-index: 4;
 
 }
+
 .meu-botao {
-    margin: 0 auto; 
+    margin: 0 auto;
 }
+
 input {
     height: 40px;
     border-radius: 5px;
